@@ -1,0 +1,2 @@
+Hello this is a sample text file.
+Added a newline into the file.
